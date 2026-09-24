@@ -1,2 +1,3 @@
 # Netmax
-This is my first Git Repositor
+This is my first Git Repositor.
+Author - Srijan
